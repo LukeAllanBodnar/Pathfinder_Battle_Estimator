@@ -1,0 +1,405 @@
+{
+    "success": true,
+    "build": {
+        "name": "Axel",
+        "class": "Exemplar",
+        "dualClass": null,
+        "level": 8,
+        "xp": 0,
+        "ancestry": "Orc",
+        "heritage": "Hold-Scarred Orc",
+        "background": "Farmhand",
+        "alignment": "N",
+        "gender": "Not set",
+        "age": "Not set",
+        "deity": "Not set",
+        "size": 2,
+        "sizeName": "Medium",
+        "keyability": "str",
+        "languages": [
+            "None selected"
+        ],
+        "rituals": [],
+        "resistances": [],
+        "inventorMods": [],
+        "abilities": {
+            "str": 19,
+            "dex": 10,
+            "con": 18,
+            "int": 10,
+            "wis": 14,
+            "cha": 14,
+            "breakdown": {
+                "ancestryFree": [
+                    "Str",
+                    "Con"
+                ],
+                "ancestryBoosts": [],
+                "ancestryFlaws": [],
+                "backgroundBoosts": [
+                    "Con",
+                    "Str"
+                ],
+                "classBoosts": [
+                    "Str"
+                ],
+                "mapLevelledBoosts": {
+                    "1": [
+                        "Str",
+                        "Con",
+                        "Wis",
+                        "Cha"
+                    ],
+                    "5": [
+                        "Str",
+                        "Con",
+                        "Wis",
+                        "Cha"
+                    ]
+                }
+            }
+        },
+        "attributes": {
+            "ancestryhp": 10,
+            "classhp": 10,
+            "bonushp": 2,
+            "bonushpPerLevel": 0,
+            "speed": 25,
+            "speedBonus": 5
+        },
+        "proficiencies": {
+            "classDC": 2,
+            "perception": 2,
+            "fortitude": 4,
+            "reflex": 2,
+            "will": 6,
+            "heavy": 2,
+            "medium": 2,
+            "light": 2,
+            "unarmored": 2,
+            "advanced": 0,
+            "martial": 4,
+            "simple": 4,
+            "unarmed": 4,
+            "castingArcane": 0,
+            "castingDivine": 0,
+            "castingOccult": 0,
+            "castingPrimal": 0,
+            "acrobatics": 0,
+            "arcana": 0,
+            "athletics": 6,
+            "crafting": 0,
+            "deception": 0,
+            "diplomacy": 2,
+            "intimidation": 2,
+            "medicine": 0,
+            "nature": 2,
+            "occultism": 0,
+            "performance": 0,
+            "religion": 2,
+            "society": 0,
+            "stealth": 0,
+            "survival": 4,
+            "thievery": 0
+        },
+        "mods": {
+            "Intimidation": {
+                "Item Bonus": 1
+            },
+            "Medicine": {
+                "Item Bonus": 1
+            }
+        },
+        "feats": [
+            [
+                "Shield Block",
+                null,
+                "Awarded Feat",
+                1
+            ],
+            [
+                "Assurance",
+                "Athletics",
+                "Awarded Feat",
+                1
+            ],
+            [
+                "Diehard",
+                null,
+                "Awarded Feat",
+                1
+            ],
+            [
+                "Hold-Scarred Orc",
+                null,
+                "Heritage",
+                1,
+                "Heritage Feat",
+                "standardChoice",
+                null
+            ],
+            [
+                "Vow of Mortal Defiance",
+                null,
+                "Class Feat",
+                1,
+                "Exemplar Feat 1",
+                "standardChoice",
+                null
+            ],
+            [
+                "Orc Weapon Familiarity",
+                null,
+                "Ancestry Feat",
+                1,
+                "Orc Feat 1",
+                "standardChoice",
+                null
+            ],
+            [
+                "Titan Wrestler",
+                null,
+                "Skill Feat",
+                2,
+                "Skill Feat 2",
+                "standardChoice",
+                null
+            ],
+            [
+                "Red-Gold Mortality",
+                null,
+                "Class Feat",
+                2,
+                "Exemplar Feat 2",
+                "standardChoice",
+                null
+            ],
+            [
+                "Fleet",
+                null,
+                "General Feat",
+                3,
+                "General Feat 3",
+                "standardChoice",
+                null
+            ],
+            [
+                "Rapid Mantel",
+                null,
+                "Skill Feat",
+                4,
+                "Skill Feat 4",
+                "standardChoice",
+                null
+            ],
+            [
+                "Steel on Steel",
+                null,
+                "Class Feat",
+                4,
+                "Exemplar Feat 4",
+                "standardChoice",
+                null
+            ],
+            [
+                "Scar-Thick Skin",
+                null,
+                "Ancestry Feat",
+                5,
+                "Orc Feat 5",
+                "standardChoice",
+                null
+            ],
+            [
+                "Slippery Prey",
+                null,
+                "Skill Feat",
+                6,
+                "Skill Feat 6",
+                "standardChoice",
+                null
+            ],
+            [
+                "Reactive Strike",
+                null,
+                "Class Feat",
+                6,
+                "Exemplar Feat 6",
+                "standardChoice",
+                null
+            ],
+            [
+                "Armor Proficiency",
+                null,
+                "General Feat",
+                7,
+                "General Feat 7",
+                "standardChoice",
+                null
+            ],
+            [
+                "That's Not Natural!",
+                null,
+                "Skill Feat",
+                8,
+                "Skill Feat 8",
+                "standardChoice",
+                null
+            ],
+            [
+                "Battle Hymn to the Lost",
+                null,
+                "Class Feat",
+                8,
+                "Exemplar Feat 8",
+                "standardChoice",
+                null
+            ]
+        ],
+        "specials": [
+            "Shift Immanence",
+            "Barrow's Edge",
+            "Victor's Wreath",
+            "Fetching Bangles",
+            "Humble Strikes",
+            "Spark Transcendence",
+            "Darkvision",
+            "The Brave",
+            "Weapon Expertise",
+            "Peerless under Heaven",
+            "Spirit Striking",
+            "Unassailable Soul",
+            "Hold-Scarred Orc"
+        ],
+        "lores": [
+            [
+                "Farming",
+                2
+            ]
+        ],
+        "equipmentContainers": {},
+        "equipment": [
+            [
+                "Healer's Toolkit",
+                1,
+                "Invested"
+            ],
+            [
+                "Healer's Gloves",
+                1,
+                "Invested"
+            ],
+            [
+                "One Hundred Victories",
+                1,
+                "Invested"
+            ],
+            [
+                "Emerald Grasshopper",
+                2,
+                "Invested"
+            ],
+            [
+                "Potion of Water Breathing",
+                1,
+                "Invested"
+            ],
+            [
+                "Climbing Bolt",
+                1,
+                "Invested"
+            ]
+        ],
+        "specificProficiencies": {
+            "trained": [],
+            "expert": [],
+            "master": [],
+            "legendary": []
+        },
+        "weapons": [
+            {
+                "name": "Ogre Hook",
+                "qty": 1,
+                "prof": "martial",
+                "die": "d10",
+                "pot": 1,
+                "str": "striking",
+                "mat": null,
+                "display": "+1 Striking Wounding Ogre Hook",
+                "runes": [
+                    "Wounding"
+                ],
+                "damageType": "P",
+                "attack": 17,
+                "damageBonus": 4,
+                "extraDamage": [
+                    "+2 spirit"
+                ],
+                "increasedDice": false,
+                "isInventor": false
+            },
+            {
+                "name": "Gauntlet Bow",
+                "qty": 1,
+                "prof": "martial",
+                "die": "d4",
+                "pot": 0,
+                "str": "",
+                "mat": null,
+                "display": "Gauntlet Bow",
+                "runes": [],
+                "damageType": "P",
+                "attack": 12,
+                "damageBonus": 0,
+                "extraDamage": [
+                    "+2 spirit"
+                ],
+                "increasedDice": false,
+                "isInventor": false
+            }
+        ],
+        "money": {
+            "cp": 0,
+            "sp": 90,
+            "gp": 42,
+            "pp": 0
+        },
+        "armor": [
+            {
+                "name": "Chain Shirt",
+                "qty": 1,
+                "prof": "light",
+                "pot": 1,
+                "res": "",
+                "mat": null,
+                "display": "+1 Chain Shirt",
+                "worn": true,
+                "runes": []
+            },
+            {
+                "name": "Chain Shirt",
+                "qty": 1,
+                "prof": "light",
+                "pot": 0,
+                "res": "",
+                "mat": null,
+                "display": "Chain Shirt",
+                "worn": false,
+                "runes": []
+            }
+        ],
+        "spellCasters": [],
+        "focusPoints": 0,
+        "focus": {},
+        "formula": [],
+        "acTotal": {
+            "acProfBonus": 10,
+            "acAbilityBonus": 0,
+            "acItemBonus": 3,
+            "acTotal": 23,
+            "shieldBonus": null
+        },
+        "pets": [],
+        "familiars": []
+    }
+}
